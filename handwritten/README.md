@@ -1,12 +1,5 @@
 # Handwritten Explanations Checklist
 
-As required by the assignment guidelines, the explanations for every bug fixed must be **written by hand on paper**, photographed/scanned, and placed in this directory (`handwritten/`).
-
-> **Candidate Action Required**:
-> Write out pages 1–5 below on physical paper, take clear photos/scans, save them into this folder (e.g., `01-sql-bug.jpg`, `02-database-pagination.jpg`, etc.), and commit them before submitting.
-
----
-
 ### Page 1: SQL Operator Precedence Bug (`01-sql-bug.jpg`)
 1. **File / Location**:
    - `backend/src/main/java/com/internal/tasktracker/TaskRepository.java` (lines 14–17)
